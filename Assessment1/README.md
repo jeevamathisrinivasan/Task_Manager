@@ -2,7 +2,7 @@
 
 ### 1️ Clone or Import Project
 
-git clone https://github.com/your-username/Employee_Task_Manager.git
+git clone https://github.com/jeevamathisrinivasan/Employee_Task_Manager.git
 
 OR import into Eclipse:
 
